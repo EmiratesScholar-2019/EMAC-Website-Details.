@@ -1,7 +1,7 @@
 # EMAC Website Details
 
 🌐 Visit our official EMAC website:
-👉 (https://www.emac-example.com)](https://euroarabmed.com/)
+👉 (https://euroarabmed.com/)
 
 📖 About EMAC:
 - A leading academic and scientific platform dedicated to:
